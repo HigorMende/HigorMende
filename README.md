@@ -2,7 +2,7 @@
 
 Meu nome é Higor Mendes
 
-- Estou estudando na Maria Lucia
+- Estou estudando na Escola Maria Lucia Padovani
 - Estou me desenvolvendo na Alura
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
